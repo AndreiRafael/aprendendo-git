@@ -1,2 +1,5 @@
 teste123
 teste321
+
+def tiro()
+	atirar()
