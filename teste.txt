@@ -1,4 +1,9 @@
 teste123
+
+def movimenta():
+	get_input()
+	mover()
+
 teste321
 
 def tiro()
